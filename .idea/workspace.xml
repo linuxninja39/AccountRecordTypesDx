@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd5078c7-d6c4-43f3-9387-5fb06118dcc3" name="Default Changelist" comment="" />
+    <list default="true" id="cd5078c7-d6c4-43f3-9387-5fb06118dcc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Blood_Draw.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Blood_Draw.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Competitor_1.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Competitor_1.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Family.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Family.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Insurance_Account.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Insurance_Account.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Inventory.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Inventory.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Practice.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Practice.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Family_Account.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Family_Account.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Practice_Account.recordType-meta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Practice_Account.recordType-meta.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sfdx-project.json" beforeDir="false" afterPath="$PROJECT_DIR$/sfdx-project.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -21,6 +33,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="json" value="1" />
           <entry key="xml" value="8" />
         </counts>
@@ -29,18 +42,21 @@
         <counts>
           <entry key="JSON" value="1" />
           <entry key="Meta.xml" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="json" value="416" />
+          <entry key="gitignore" value="16" />
+          <entry key="json" value="421" />
           <entry key="xml" value="175" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="416" />
+          <entry key="JSON" value="421" />
           <entry key="Meta.xml" value="175" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -67,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Practice_Account.recordType-meta.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -121,16 +137,28 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sfdx-project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+            <state relative-caret-position="206">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,6 +171,7 @@
         <option value="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Family.recordType-meta.xml" />
         <option value="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Family_Account.recordType-meta.xml" />
         <option value="$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Inventory.recordType-meta.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/sfdx-project.json" />
       </list>
     </option>
@@ -159,13 +188,24 @@
     <option name="width" value="1781" />
     <option name="height" value="881" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AccountRecordTypesDx" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AccountRecordTypesDx" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537566706500</updated>
-      <workItem from="1537566707624" duration="5768000" />
+      <workItem from="1537566707624" duration="6923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5768000" />
+    <option name="totallyTimeSpent" value="6923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
@@ -214,7 +254,7 @@
       <window_info anchor="bottom" id="Log Viewer" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="SOQL Query" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.51132685" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.51243246" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Anonymous Apex" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,42 +276,21 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Practice_Account.recordType-meta.xml">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Insurance_Account.recordType-meta.xml">
+    <entry file="file://$PROJECT_DIR$/sfdx-project.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="206">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Practice.recordType-meta.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Competitor_1.recordType-meta.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Family.recordType-meta.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Family_Account.recordType-meta.xml">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Inventory.recordType-meta.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
@@ -285,17 +304,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Inventory.recordType-meta.xml">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Family_Account.recordType-meta.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sfdx-project.json">
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Family.recordType-meta.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Competitor_1.recordType-meta.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Practice.recordType-meta.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Insurance_Account.recordType-meta.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/force-app/main/default/objects/Account/recordTypes/Web_Practice_Account.recordType-meta.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Welcome Call Needed</fullName>
+        <default>false</default>
+        <label>Welcome Call Needed</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initiate Billing</fullName>
+        <default>false</default>
+        <label>Initiate Billing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Follow-up on Claim Status</fullName>
+        <default>false</default>
+        <label>Follow-up on Claim Status</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initiate Informal Reconsideration</fullName>
+        <default>false</default>
+        <label>Initiate Informal Reconsideration</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initiate Level 1 Appeal</fullName>
+        <default>false</default>
+        <label>Initiate Level 1 Appeal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initiate Level 2 Appeal</fullName>
+        <default>false</default>
+        <label>Initiate Level 2 Appeal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initiate External Appeal</fullName>
+        <default>false</default>
+        <label>Initiate External Appeal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Schedule Grievance Call</fullName>
+        <default>false</default>
+        <label>Schedule Grievance Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Participate in Grievance Call</fullName>
+        <default>false</default>
+        <label>Participate in Grievance Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing ICD-9</fullName>
+        <default>false</default>
+        <label>Missing ICD-9</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Physician Information</fullName>
+        <default>false</default>
+        <label>Missing Physician Information</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Patient Information</fullName>
+        <default>false</default>
+        <label>Missing Patient Information</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Signature</fullName>
+        <default>false</default>
+        <label>Missing Signature</label>
+    </standardValue>
+    <standardValue>
+        <fullName>48 Hour Hold</fullName>
+        <default>false</default>
+        <label>48 Hour Hold</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Call</fullName>
+        <default>false</default>
+        <label>Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Send Letter</fullName>
+        <default>false</default>
+        <label>Send Letter</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Logistics/staff training</fullName>
+        <default>false</default>
+        <label>Logistics/staff training</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cold call/discovery</fullName>
+        <default>false</default>
+        <label>Cold call/discovery</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Targeting competition</fullName>
+        <default>false</default>
+        <label>Targeting competition</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Challenger 0 (Belief - education/sell/close)</fullName>
+        <default>false</default>
+        <label>Challenger 0 (Belief - education/sell/close)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Challenger 1 (Order - education/sell/close)</fullName>
+        <default>false</default>
+        <label>Challenger 1 (Order - education/sell/close)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Challenger 2 (Growth - education/sell/close)</fullName>
+        <default>false</default>
+        <label>Challenger 2 (Growth - education/sell/close)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Challenger 3 (Retention - education/sell/close)</fullName>
+        <default>false</default>
+        <label>Challenger 3 (Retention - education/sell/close)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Follow-up on request or known problem</fullName>
+        <default>false</default>
+        <label>Follow-up on request or known problem</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Drop-in/check-in</fullName>
+        <default>false</default>
+        <label>Drop-in/check-in</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Campaign-specific outreach</fullName>
+        <default>false</default>
+        <label>Campaign-specific outreach</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Dormant accounts outreach</fullName>
+        <default>false</default>
+        <label>Dormant accounts outreach</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Dinner program discussion</fullName>
+        <default>false</default>
+        <label>Dinner program discussion</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Introduction at Trade Show/Conference</fullName>
+        <default>false</default>
+        <label>Introduction at Trade Show/Conference</label>
+    </standardValue>
+</StandardValueSet>

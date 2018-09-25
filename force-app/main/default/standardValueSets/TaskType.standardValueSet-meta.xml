@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Call</fullName>
+        <default>false</default>
+        <label>Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Meeting</fullName>
+        <default>false</default>
+        <label>Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Task</fullName>
+        <default>false</default>
+        <label>Task</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Email</fullName>
+        <default>false</default>
+        <label>Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Text</fullName>
+        <default>false</default>
+        <label>Text</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Fax</fullName>
+        <default>false</default>
+        <label>Fax</label>
+    </standardValue>
+    <standardValue>
+        <fullName>USMAIL</fullName>
+        <default>false</default>
+        <label>USMAIL</label>
+    </standardValue>
+    <standardValue>
+        <fullName>P2P Call</fullName>
+        <default>false</default>
+        <label>P2P Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>P2P Email</fullName>
+        <default>false</default>
+        <label>P2P Email</label>
+    </standardValue>
+    <standardValue>
+        <fullName>P2P USMAIL</fullName>
+        <default>false</default>
+        <label>P2P USMAIL</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Physician - Gathered Missing Info</fullName>
+        <default>false</default>
+        <label>Physician - Gathered Missing Info</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Physician – Internal Follow Up</fullName>
+        <default>false</default>
+        <label>Physician – Internal Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Kit Coordination</fullName>
+        <default>false</default>
+        <label>Kit Coordination</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Physician - Initiated PA</fullName>
+        <default>false</default>
+        <label>Physician - Initiated PA</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PCM/PCP Request(s)</fullName>
+        <default>false</default>
+        <label>PCM/PCP Request(s)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>MR/LOMN Request(s)</fullName>
+        <default>false</default>
+        <label>MR/LOMN Request(s)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cancellation</fullName>
+        <default>false</default>
+        <label>Cancellation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Patient - Gathered / Verified Missing Info</fullName>
+        <default>false</default>
+        <label>Patient - Gathered / Verified Missing Info</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Patient - Scheduled GC Session</fullName>
+        <default>false</default>
+        <label>Patient - Scheduled GC Session</label>
+    </standardValue>
+    <standardValue>
+        <fullName>WC - Patient Recollect</fullName>
+        <default>false</default>
+        <label>WC - Patient Recollect</label>
+    </standardValue>
+    <standardValue>
+        <fullName>WC - Call</fullName>
+        <default>false</default>
+        <label>WC - Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Family Contact - Attempt</fullName>
+        <default>false</default>
+        <label>Family Contact - Attempt</label>
+    </standardValue>
+    <standardValue>
+        <fullName>WC - Email/Text</fullName>
+        <default>false</default>
+        <label>WC - Email/Text</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Informational Communication</fullName>
+        <default>false</default>
+        <label>Informational Communication</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PA - Denial</fullName>
+        <default>false</default>
+        <label>PA - Denial</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PA - Approval</fullName>
+        <default>false</default>
+        <label>PA - Approval</label>
+    </standardValue>
+    <standardValue>
+        <fullName>PA - Follow Up</fullName>
+        <default>false</default>
+        <label>PA - Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Initial Claims Follow Up</fullName>
+        <default>false</default>
+        <label>Initial Claims Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Correspondence Received (No Action)</fullName>
+        <default>false</default>
+        <label>Correspondence Received (No Action)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Clean Claims Follow Up</fullName>
+        <default>false</default>
+        <label>Clean Claims Follow Up</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fixes – Incorrect payment</fullName>
+        <default>false</default>
+        <label>Claim fixes – Incorrect payment</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fixes – Incorrect DX code</fullName>
+        <default>false</default>
+        <label>Claim fixes – Incorrect DX code</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fixes – No MR</fullName>
+        <default>false</default>
+        <label>Claim fixes – No MR</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fixes - Auth Forms</fullName>
+        <default>false</default>
+        <label>Claim fixes - Auth Forms</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fixes – PA not done</fullName>
+        <default>false</default>
+        <label>Claim fixes – PA not done</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fix - Attempt</fullName>
+        <default>false</default>
+        <label>Claim fix - Attempt</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Claim fix - Re-bill</fullName>
+        <default>false</default>
+        <label>Claim fix - Re-bill</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Close Claim</fullName>
+        <default>false</default>
+        <label>Close Claim</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Bill Claims</fullName>
+        <default>false</default>
+        <label>Bill Claims</label>
+    </standardValue>
+    <standardValue>
+        <fullName>In-Person Meeting</fullName>
+        <default>false</default>
+        <label>In-Person Meeting</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Phone Call</fullName>
+        <default>false</default>
+        <label>Phone Call</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Dinner Program</fullName>
+        <default>false</default>
+        <label>Dinner Program</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Conference Meeting</fullName>
+        <default>false</default>
+        <label>Conference Meeting</label>
+    </standardValue>
+</StandardValueSet>

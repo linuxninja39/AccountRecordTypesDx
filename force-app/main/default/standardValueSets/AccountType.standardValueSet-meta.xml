@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Debt Provider/Bank</fullName>
+        <default>false</default>
+        <label>Debt Provider/Bank</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Competitor</fullName>
+        <default>false</default>
+        <label>Competitor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Customer</fullName>
+        <default>false</default>
+        <label>Customer</label>
+    </standardValue>
+    <standardValue>
+        <fullName>VC Investor</fullName>
+        <default>false</default>
+        <label>VC Investor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Press</fullName>
+        <default>false</default>
+        <label>Press</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Individual Prospect</fullName>
+        <default>false</default>
+        <label>Individual Prospect</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pediatric Solo</fullName>
+        <default>false</default>
+        <label>Pediatric Solo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Pediatric Group</fullName>
+        <default>false</default>
+        <label>Pediatric Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Multi-Specialty group</fullName>
+        <default>false</default>
+        <label>Multi-Specialty group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>General Hospital</fullName>
+        <default>false</default>
+        <label>General Hospital</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Children's Hospital</fullName>
+        <default>false</default>
+        <label>Children's Hospital</label>
+    </standardValue>
+    <standardValue>
+        <fullName>General Practice Solo</fullName>
+        <default>false</default>
+        <label>General Practice Solo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>General Practice Group</fullName>
+        <default>false</default>
+        <label>General Practice Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Specialty Practice Solo</fullName>
+        <default>false</default>
+        <label>Specialty Practice Solo</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Specialty Practice Group</fullName>
+        <default>false</default>
+        <label>Specialty Practice Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Military Pediatric Group</fullName>
+        <default>false</default>
+        <label>Military Pediatric Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Military Specialty Practice Group</fullName>
+        <default>false</default>
+        <label>Military Specialty Practice Group</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Vendor</fullName>
+        <default>false</default>
+        <label>Vendor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Rep</fullName>
+        <default>false</default>
+        <label>Sales Rep</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Commercial</fullName>
+        <default>false</default>
+        <label>Commercial</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Fee For Service</fullName>
+        <default>false</default>
+        <label>Fee For Service</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Managed Care</fullName>
+        <default>false</default>
+        <label>Managed Care</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Government</fullName>
+        <default>false</default>
+        <label>Government</label>
+    </standardValue>
+</StandardValueSet>

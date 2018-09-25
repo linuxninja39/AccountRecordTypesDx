@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Sales</fullName>
+        <default>false</default>
+        <label>Sales</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Research</fullName>
+        <default>false</default>
+        <label>Research</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Test/Lab Process</fullName>
+        <default>false</default>
+        <label>Test/Lab Process</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Marketing</fullName>
+        <default>false</default>
+        <label>Marketing</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Patient Customer Service</fullName>
+        <default>false</default>
+        <label>Patient Customer Service</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Physician Customer Service</fullName>
+        <default>false</default>
+        <label>Physician Customer Service</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Billing/Payor</fullName>
+        <default>false</default>
+        <label>Billing/Payor</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Web/Sites/Applications</fullName>
+        <default>false</default>
+        <label>Web/Sites/Applications</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Business Systems</fullName>
+        <default>false</default>
+        <label>Business Systems</label>
+    </standardValue>
+</StandardValueSet>

@@ -5,15 +5,11 @@
             "default": true,
             "dependencies": [
                 {
-                    "package": "StandardValueSetsDx",
-                    "versionNumber": "0.1.0.3"
-                },
-                {
                     "package": "AccountCustomFieldsDx",
-                    "versionNumber": "0.1.0.1"
+                    "versionNumber": "0.1.0.4"
                 }
             ],
-            "package": "AccountRecordTypeDx",
+            "package": "AccountRecordTypesDx",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
         }
@@ -22,8 +18,12 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "43.0",
     "packageAliases": {
-        "AccountRecordTypeDx": "0Ho1O000000GmaYSAS",
-        "StandardValueSetsDx": "0Ho1O000000GmaTSAS",
-        "AccountCustomFieldsDx": "0Ho1O000000GmaJSAS"
+        "AccountRecordTypesDx": "0Ho1O000000GmaYSAS",
+        "AccountCustomFieldsDx": "0Ho1O000000GmaJSAS",
+        "AccountCustomFieldsDx@0.1.0-4": "04t1O000001RxjHQAS",
+        "AccountRecordTypesDx@0.1.0-1": "04t1O000001RxjCQAS",
+        "AccountRecordTypesDx@0.1.0-2": "04t1O000001RxjWQAS",
+        "AccountRecordTypesDx@0.1.0-3": "04t1O000001RxjbQAC",
+        "AccountRecordTypesDx@0.1.0-4": "04t1O000001RxjgQAC"
     }
 }

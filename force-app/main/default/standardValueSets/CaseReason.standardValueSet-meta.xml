@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Pre-Sale Complete/Waiting for Sample</fullName>
+        <default>false</default>
+        <label>Pre-Sale Complete/Waiting for Sample</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Complex functionality</fullName>
+        <default>false</default>
+        <label>Complex functionality</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Existing problem</fullName>
+        <default>false</default>
+        <label>Existing problem</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Incomplete Patient Name</fullName>
+        <default>false</default>
+        <label>Incomplete Patient Name</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Instructions not clear</fullName>
+        <default>false</default>
+        <label>Instructions not clear</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing ICD9 Code(s)</fullName>
+        <default>false</default>
+        <label>Missing ICD9 Code(s)</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Identifiers</fullName>
+        <default>false</default>
+        <label>Missing Identifiers</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Signature</fullName>
+        <default>false</default>
+        <label>Missing Signature</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>New problem</fullName>
+        <default>false</default>
+        <label>New problem</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>No Ordering Physician Listed</fullName>
+        <default>false</default>
+        <label>No Ordering Physician Listed</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>User didn&#39;t attend training</fullName>
+        <default>false</default>
+        <label>User didn&#39;t attend training</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Missing Insurance</fullName>
+        <default>false</default>
+        <label>Missing Insurance</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre GC Welcome Call Requested</fullName>
+        <default>false</default>
+        <label>Pre GC Welcome Call Requested</label>
+        <cssExposed>false</cssExposed>
+    </standardValue>
+</StandardValueSet>

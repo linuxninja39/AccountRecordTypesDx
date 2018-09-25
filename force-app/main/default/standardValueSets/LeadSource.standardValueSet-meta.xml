@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>2014-09-12 Mark Smith</fullName>
+        <default>false</default>
+        <label>2014-09-12 Mark Smith</label>
+    </standardValue>
+    <standardValue>
+        <fullName>AAP National Meeting October 2011</fullName>
+        <default>false</default>
+        <label>AAP National Meeting October 2011</label>
+    </standardValue>
+    <standardValue>
+        <fullName>ACMG - 2014</fullName>
+        <default>false</default>
+        <label>ACMG - 2014</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Advertisement</fullName>
+        <default>false</default>
+        <label>Advertisement</label>
+    </standardValue>
+    <standardValue>
+        <fullName>ANN ARBOR CENTER (AAC)</fullName>
+        <default>false</default>
+        <label>ANN ARBOR CENTER (AAC)</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Cold calls</fullName>
+        <default>false</default>
+        <label>Cold calls</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Davinci Lead</fullName>
+        <default>false</default>
+        <label>Davinci Lead</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Draw station referral</fullName>
+        <default>false</default>
+        <label>Draw station referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Employee Referral</fullName>
+        <default>false</default>
+        <label>Employee Referral</label>
+    </standardValue>
+    <standardValue>
+        <fullName>External Referral</fullName>
+        <default>false</default>
+        <label>External Referral</label>
+    </standardValue>
+    <standardValue>
+	<fullName>Gayland's Consultant - Psych Round 1</fullName>
+        <default>false</default>
+        <label>Gayland's Consultant - Psych Round 1</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Gayland's Consultant - Psych Round 2</fullName>
+        <default>false</default>
+        <label>Gayland's Consultant - Psych Round 2</label>
+    </standardValue>
+    <standardValue>
+        <fullName>LakeGroupB2B</fullName>
+        <default>false</default>
+        <label>LakeGroupB2B</label>
+    </standardValue>
+    <standardValue>
+        <fullName>LakeGroup B2B</fullName>
+        <default>false</default>
+        <label>LakeGroup B2B</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Lineagen.com</fullName>
+        <default>false</default>
+        <label>Lineagen.com</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Marketing Campaign</fullName>
+        <default>false</default>
+        <label>Marketing Campaign</label>
+    </standardValue>
+    <standardValue>
+        <fullName>M-CHAT.org - CG Account</fullName>
+        <default>false</default>
+        <label>M-CHAT.org - CG Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>M-CHAT.org Contact Us</fullName>
+        <default>false</default>
+        <label>M-CHAT.org Contact Us</label>
+    </standardValue>
+    <standardValue>
+        <fullName>M-CHAT.org - HP Account</fullName>
+        <default>false</default>
+        <label>M-CHAT.org - HP Account</label>
+    </standardValue>
+    <standardValue>
+        <fullName>OpeningAutism.com</fullName>
+        <default>false</default>
+        <label>OpeningAutism.com</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Other</fullName>
+        <default>false</default>
+        <label>Other</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Partner</fullName>
+        <default>false</default>
+        <label>Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Presentation</fullName>
+        <default>false</default>
+        <label>Presentation</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Public Relations</fullName>
+        <default>false</default>
+        <label>Public Relations</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Seminar - Internal</fullName>
+        <default>false</default>
+        <label>Seminar - Internal</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Seminar - Partner</fullName>
+        <default>false</default>
+        <label>Seminar - Partner</label>
+    </standardValue>
+    <standardValue>
+        <fullName>SK&amp;A</fullName>
+        <default>false</default>
+        <label>SK&amp;A</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Symphony Data</fullName>
+        <default>false</default>
+        <label>Symphony Data</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Trade Show</fullName>
+        <default>false</default>
+        <label>Trade Show</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Web</fullName>
+        <default>false</default>
+        <label>Web</label>
+    </standardValue>
+    <standardValue>
+        <fullName>Word of mouth</fullName>
+        <default>false</default>
+        <label>Word of mouth</label>
+    </standardValue>
+</StandardValueSet>

@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>Lead/Opp Entry</fullName>
+        <default>false</default>
+        <description>Resp Party is Entered as Opportunity in Salesforce</description>
+        <label>Lead/Opp Entry</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Inquiry</fullName>
+        <default>false</default>
+        <description>Contact is asking Questions about our Products/Services Offered</description>
+        <label>Sales Inquiry</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales Inquiry/Possible Sale</fullName>
+        <default>false</default>
+        <label>Sales Inquiry/Possible Sale</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Waiting on CMA</fullName>
+        <default>false</default>
+        <label>Waiting on CMA</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Doc Gave Permission To Contact</fullName>
+        <default>false</default>
+        <label>Doc Gave Permission To Contact</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Doc Contacting Family First</fullName>
+        <default>false</default>
+        <label>Doc Contacting Family First</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Family Contact By Lineagen Pending</fullName>
+        <default>false</default>
+        <label>Family Contact By Lineagen Pending</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>GC Complete; Waiting on Family &amp; Doc</fullName>
+        <default>false</default>
+        <description>GC session complete; waiting on paperwork</description>
+        <label>GC Complete; Waiting on Family &amp; Doc</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>GC Complete; Waiting on Family</fullName>
+        <default>false</default>
+        <description>GC session complete; waiting on paperwork (family)</description>
+        <label>GC Complete; Waiting on Family</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>GC Complete; Waiting on Doctor</fullName>
+        <default>false</default>
+        <description>GC session complete; waiting on paperwork (doc)</description>
+        <label>GC Complete; Waiting on Doctor</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>15</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Process Review</fullName>
+        <default>false</default>
+        <description>Review Testing Process and Timelines with Contact</description>
+        <label>Process Review</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>30</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre-GC Session Scheduled</fullName>
+        <default>false</default>
+        <description>Scheduled Pre GC Session to close or gain interest in moving forward</description>
+        <label>Pre-GC Session Scheduled</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>60</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Pre-Sale BI</fullName>
+        <default>false</default>
+        <description>Pre BI requested by Contact before proceeding</description>
+        <label>Pre-Sale BI</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>75</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Kit Coordination Pending</fullName>
+        <default>false</default>
+        <label>Kit Coordination Pending</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>85</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Kit Coordination</fullName>
+        <default>false</default>
+        <description>Coordinating Kit mailing to patient or physician office</description>
+        <label>Kit Coordination</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>85</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Kit Pending Arrival</fullName>
+        <default>false</default>
+        <description>Kit is ‘In the mail’ back to Lineagen</description>
+        <label>Kit Pending Arrival</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>95</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/Sample Issues</fullName>
+        <default>false</default>
+        <label>Requisition Received/Sample Issues</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>95</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received</fullName>
+        <default>false</default>
+        <label>Requisition Received</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/GC Team</fullName>
+        <default>false</default>
+        <label>Requisition Received/GC Team</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/Sales Team</fullName>
+        <default>false</default>
+        <label>Requisition Received/Sales Team</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/RMT-B Team</fullName>
+        <default>false</default>
+        <label>Requisition Received/RMT-B Team</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/CS Team</fullName>
+        <default>false</default>
+        <label>Requisition Received/CS Team</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Requisition Received/CRS Team</fullName>
+        <default>false</default>
+        <label>Requisition Received/CRS Team</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Waiting on Medical Records</fullName>
+        <default>false</default>
+        <label>Waiting on Medical Records</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>GC Session Pending</fullName>
+        <default>false</default>
+        <label>GC Session Pending</label>
+        <closed>false</closed>
+        <forecastCategory>BestCase</forecastCategory>
+        <probability>99</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Waiting To Ship</fullName>
+        <default>false</default>
+        <description>10/23/13 Created to track samples waiting to ship to lab in weekly shipment</description>
+        <label>Waiting To Ship</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Approved To Ship</fullName>
+        <default>false</default>
+        <label>Approved To Ship</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Shipped To Lab</fullName>
+        <default>false</default>
+        <label>Shipped To Lab</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Shipped To Lab/Sample Issues</fullName>
+        <default>false</default>
+        <label>Shipped To Lab/Sample Issues</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Shipped To Lab/Cyto-Team</fullName>
+        <default>false</default>
+        <label>Shipped To Lab/Cyto-Team</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Shipped To Lab/Sample Re-Run</fullName>
+        <default>false</default>
+        <label>Shipped To Lab/Sample Re-Run</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Shipped To Lab/GC-Team</fullName>
+        <default>false</default>
+        <label>Shipped To Lab/GC-Team</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Parent Sample</fullName>
+        <default>false</default>
+        <label>Parent Sample</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sent to MCW for Full Service</fullName>
+        <default>false</default>
+        <label>Sent to MCW for Full Service</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sent to AGI for Full Service</fullName>
+        <default>false</default>
+        <label>Sent to AGI for Full Service</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sent to MNG</fullName>
+        <default>false</default>
+        <label>Sent to MNG</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Labwork complete; awaiting interp</fullName>
+        <default>false</default>
+        <label>Labwork complete; awaiting interp</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Under phase 1 interpretation</fullName>
+        <default>false</default>
+        <label>Under phase 1 interpretation</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Under Sanger confirmation</fullName>
+        <default>false</default>
+        <label>Under Sanger confirmation</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sanger complete; under phase 2 interpret</fullName>
+        <default>false</default>
+        <label>Sanger complete; under phase 2 interpret</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Interpretation complete; in GC reporting</fullName>
+        <default>false</default>
+        <label>Interpretation complete; in GC reporting</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Test Reported</fullName>
+        <default>false</default>
+        <label>Test Reported</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Waiting To Bill</fullName>
+        <default>false</default>
+        <description>10/23/13 Created to track Opps that are waiting to bill, typically PA/Gap Approval</description>
+        <label>Waiting To Bill</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Insurance Billed</fullName>
+        <default>false</default>
+        <label>Insurance Billed</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>FAP Approved</fullName>
+        <default>false</default>
+        <label>FAP Approved</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Prepay - Payment Plan</fullName>
+        <default>false</default>
+        <label>Prepay - Payment Plan</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Insurance Partial Payment</fullName>
+        <default>false</default>
+        <label>Insurance Partial Payment</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Balance Bill Partial Payment</fullName>
+        <default>false</default>
+        <label>Balance Bill Partial Payment</label>
+        <closed>false</closed>
+        <forecastCategory>Forecast</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Insurance Full Payment</fullName>
+        <default>false</default>
+        <label>Insurance Full Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Balance Bill Full Payment</fullName>
+        <default>false</default>
+        <label>Balance Bill Full Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Insurance $0 Payment</fullName>
+        <default>false</default>
+        <label>Insurance $0 Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Medicaid $0 Payment</fullName>
+        <default>false</default>
+        <label>Medicaid $0 Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>100</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Medicaid Full Payment</fullName>
+        <default>false</default>
+        <label>Medicaid Full Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Medicaid Partial Payment</fullName>
+        <default>false</default>
+        <label>Medicaid Partial Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Manual Authorization $0 Payment</fullName>
+        <default>false</default>
+        <label>Manual Authorization $0 Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Prepay - Closed</fullName>
+        <default>false</default>
+        <label>Prepay - Closed</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>FAP Full Payment</fullName>
+        <default>false</default>
+        <label>FAP Full Payment</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>UPP Approved</fullName>
+        <default>false</default>
+        <label>UPP Approved</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Lead</fullName>
+        <default>false</default>
+        <label>Sales - Lead</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>5</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Hot Lead</fullName>
+        <default>false</default>
+        <label>Sales - Hot Lead</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>10</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Initial Meeting</fullName>
+        <default>false</default>
+        <label>Sales - Initial Meeting</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>25</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Stakeholder Buy-In</fullName>
+        <default>false</default>
+        <label>Sales - Stakeholder Buy-In</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>50</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Whole Office Buy-In</fullName>
+        <default>false</default>
+        <label>Sales - Whole Office Buy-In</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>75</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - In-Service Performed</fullName>
+        <default>false</default>
+        <label>Sales - In-Service Performed</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>80</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Starting to Send</fullName>
+        <default>false</default>
+        <label>Sales - Starting to Send</label>
+        <closed>false</closed>
+        <forecastCategory>Pipeline</forecastCategory>
+        <probability>90</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Fully Closed</fullName>
+        <default>false</default>
+        <label>Sales - Fully Closed</label>
+        <closed>true</closed>
+        <forecastCategory>Closed</forecastCategory>
+        <probability>100</probability>
+        <won>true</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Abandoned (Lost to Competitor)</fullName>
+        <default>false</default>
+        <label>Sales - Abandoned (Lost to Competitor)</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Abandoned (Office Closed/Retired)</fullName>
+        <default>false</default>
+        <label>Sales - Abandoned (Office Closed/Retired)</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Abandoned (Office will not Respond)</fullName>
+        <default>false</default>
+        <label>Sales - Abandoned (Office will not Respond)</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Abandoned (High Medicaid/Bad Payor Mix)</fullName>
+        <default>false</default>
+        <label>Sales - Abandoned (High Medicaid/Bad Payor Mix)</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Sales - Abandoned (Office Said No)</fullName>
+        <default>false</default>
+        <label>Sales - Abandoned (Office Said No)</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Opportunity Lost - Other</fullName>
+        <default>false</default>
+        <description>Opportunity stages for lost opportunities consist of three typical outcomes: Unresponsive, No-Go, and Family Requested. All others (i.e. physician cancellation) will be in this &quot;Other&quot; stage.</description>
+        <label>Opportunity Lost - Other</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Opportunity Lost - No-Go</fullName>
+        <default>false</default>
+        <description>Opportunity lost due to issues related to insurance coverage where a family was not able to self-pay.</description>
+        <label>Opportunity Lost - No-Go</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Opportunity Lost - Unresponsive</fullName>
+        <default>false</default>
+        <description>Opportunity lost due to a need for critical information and we have not been successful in obtaining it after several attempts (i.e. unqualified for LCP, no initial swab received [pre-sale], fedex lost sample, re-swab for failed QC).</description>
+        <label>Opportunity Lost - Unresponsive</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+    <standardValue>
+        <fullName>Opportunity Lost - Family Requested</fullName>
+        <default>false</default>
+        <description>Opportunity lost due to a request from the family. For example, this could be a contracted case with good insurance coverage, but a family still does not want testing for any reason.</description>
+        <label>Opportunity Lost - Family Requested</label>
+        <closed>true</closed>
+        <forecastCategory>Omitted</forecastCategory>
+        <probability>0</probability>
+        <won>false</won>
+    </standardValue>
+</StandardValueSet>

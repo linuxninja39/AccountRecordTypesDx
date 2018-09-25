@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StandardValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <sorted>false</sorted>
+    <standardValue>
+        <fullName>New</fullName>
+        <default>true</default>
+        <label>New</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Team 1st Contact</fullName>
+        <default>false</default>
+        <label>CS Team 1st Contact</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Team 2nd Contact</fullName>
+        <default>false</default>
+        <label>CS Team 2nd Contact</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Team 3rd Contact</fullName>
+        <default>false</default>
+        <label>CS Team 3rd Contact</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>CS Team 4th Contact</fullName>
+        <default>false</default>
+        <label>CS Team 4th Contact</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>In Process</fullName>
+        <default>false</default>
+        <label>In Process</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>On Hold</fullName>
+        <default>false</default>
+        <label>On Hold</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Escalated</fullName>
+        <default>false</default>
+        <label>Escalated</label>
+        <closed>false</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed - Successful</fullName>
+        <default>false</default>
+        <label>Closed - Successful</label>
+        <closed>true</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>Closed - Unsuccessful</fullName>
+        <default>false</default>
+        <label>Closed - Unsuccessful</label>
+        <closed>true</closed>
+    </standardValue>
+    <standardValue>
+        <fullName>CRS Team - In Process</fullName>
+        <default>false</default>
+        <label>CRS Team - In Process</label>
+        <closed>false</closed>
+    </standardValue>
+</StandardValueSet>
